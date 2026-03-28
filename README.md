@@ -46,7 +46,7 @@ ________________________________________
 
 •	Data filtering and sorting 
 
-8. Exploratory Data Analysis (EDA)
+6. Exploratory Data Analysis (EDA)
    
 •	Identified patterns and trends
 
@@ -54,7 +54,7 @@ ________________________________________
 
 •	Performed statistical summaries 
 
-10. Data Visualization
+7. Data Visualization
 
 •	Created static charts using Seaborn & Matplotlib
 

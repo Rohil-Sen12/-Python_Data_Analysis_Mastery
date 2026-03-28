@@ -1,5 +1,5 @@
-
 📊 Python Data Analysis Mastery
+
 This project demonstrates a complete end-to-end data analysis workflow using Python. It focuses on extracting meaningful insights from raw data by applying data cleaning, transformation, visualization, and exploratory data analysis (EDA) techniques.
 
 The objective of this project is to showcase practical skills in data analysis using industry-standard Python libraries and to turn raw datasets into actionable insights.
@@ -82,6 +82,11 @@ The goal of this project is to:
 •	Demonstrate real-world EDA techniques 
 
 •	Build a strong portfolio project for data analyst roles 
+
+
+🔗 Connect with me on LinkedIn 👉https://www.linkedin.com/in/rohil-sen-813702392/
+
+👨‍💻 Author Rohil Sen
 ________________________________________
 📌 Conclusion
 

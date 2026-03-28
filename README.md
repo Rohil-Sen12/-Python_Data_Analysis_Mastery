@@ -28,7 +28,7 @@ ________________________________________
 
 •	Loaded and explored the structure of the data 
 
-4. Data Cleaning
+2. Data Cleaning
 
 •	Handled missing values 
 
@@ -38,7 +38,7 @@ ________________________________________
 
 •	Treated outliers 
 
-5. Data Transformation
+3. Data Transformation
    
 •	Feature engineering 
 
@@ -46,7 +46,7 @@ ________________________________________
 
 •	Data filtering and sorting 
 
-6. Exploratory Data Analysis (EDA)
+4. Exploratory Data Analysis (EDA)
    
 •	Identified patterns and trends
 
@@ -54,7 +54,7 @@ ________________________________________
 
 •	Performed statistical summaries 
 
-7. Data Visualization
+5. Data Visualization
 
 •	Created static charts using Seaborn & Matplotlib
 
